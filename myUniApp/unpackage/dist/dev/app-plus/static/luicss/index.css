@@ -1,0 +1,23 @@
+.content {
+	display: flex;
+	flex-direction: row;
+}
+
+.sale-content {
+	width: 33.33%;
+	height: 80px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-self: center;
+}
+
+.gf {
+/* 	width: 30px;
+	height: 30px; */
+	/* font-size: 60px; */
+	align-self: center;
+	color: #007AFF;
+	text-align: center;
+	/* line-height: 30px; */
+}
